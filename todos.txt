@@ -1,0 +1,4 @@
+blackjack
+rabmo consensus če večina validata
+sprejemat igralce, iz enga morejo prihajat navodila hiša
+vsi morjo met svojo kopijo blockchaina
