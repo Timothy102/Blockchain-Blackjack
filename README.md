@@ -2,7 +2,7 @@
 
 
 ## Contact
-Please, feel free to reach out on [https://www.linkedin.com/in/tim-cvetko-32842a1a6/], gmail.
+Please, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tim-cvetko-32842a1a6/). 
 
 ## License
 
